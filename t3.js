@@ -6,3 +6,6 @@ var C =parseFloat(prompt('Enter side C'));
 if(isNaN(A) === true || isNaN(B) === true || isNaN(C) === true){
 alert("Plese enter a Number");
 }
+else if (A === B && B === C) {
+   alert("Equalateral");
+   }
