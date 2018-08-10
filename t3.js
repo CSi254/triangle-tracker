@@ -9,3 +9,6 @@ alert("Plese enter a Number");
 else if (A === B && B === C) {
    alert("Equalateral");
    }
+   else  if (A === B || B === C || A === C) {
+      alert("Isosceles");
+      }
