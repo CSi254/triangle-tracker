@@ -12,3 +12,6 @@ else if (A === B && B === C) {
    else  if (A === B || B === C || A === C) {
       alert("Isosceles");
       }
+      else  if ( typeof A !=="number" || typeof B !=="number" ||typeof C !=="number" ) {
+         alert("Please enter a number");
+         }
