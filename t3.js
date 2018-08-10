@@ -15,3 +15,7 @@ else if (A === B && B === C) {
       else  if ( typeof A !=="number" || typeof B !=="number" ||typeof C !=="number" ) {
          alert("Please enter a number");
          }
+         else {
+          alert("Scalene!");
+          }
+        }
