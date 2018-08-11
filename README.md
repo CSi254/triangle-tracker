@@ -9,4 +9,10 @@ This module is able to calculate and give you an answer which is accurate acordi
 
 # The BDD
 This project starts from as simle as an alert box which is only open when you click a button called "CLICK ME".
-The button "CLICK ME" helps one in commanding the alert box in poping up on the page and entering the values for  
+The button "CLICK ME" helps one in commanding the alert box in poping up on the page and entering the values for each side of the triangle.
+
+# The UI
+The ui is open for improvement.
+ # Author Email: 
+ johngatheru18@gmail.com
+ 
