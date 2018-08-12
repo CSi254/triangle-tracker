@@ -1,4 +1,5 @@
-# Project or program name: triangletracker
+# Program name: 
+triangletracker
 
 # Author name:John Gatheru
 
