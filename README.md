@@ -14,5 +14,5 @@ The button "CLICK ME" helps one in commanding the alert box in poping up on the 
 # The UI
 The ui is open for improvement.
  # Author Email: 
- johngatheru18@gmail.com
+ johngatheru18@gmail.com 
  
