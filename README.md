@@ -74,6 +74,8 @@ The ui is open for improvement.
  
  # Live Website
  
+ https://csi254.github.io/triangle-tracker/
+ 
  # Lisense 
  MIT License 
  
