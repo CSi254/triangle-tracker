@@ -62,7 +62,7 @@ The Program recognizes empty fields or invalid characters like text
 
 Input : sideA = a sideB = "" sideC = 90
 
-OUTPUT EXAMPLE: TRY AGAIN. EMPTY FIELDS OR WRONG INPUTS
+OUTPUT EXAMPLE: PLEASE ENTETR A NUMBER. EMPTY FIELDS OR WRONG INPUTS
 
 
 
