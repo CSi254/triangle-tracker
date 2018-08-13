@@ -17,7 +17,7 @@ This module is able to calculate and give you an answer which is accurate acordi
 * Open the directory then open the index.html file on the browser to run the program.
 
 
-# The BDD
+# The Behaviour Driven Development (BDD)
 This project starts from as simle as an alert box which is only open when you click a button called "CLICK ME".
 The button "CLICK ME" helps one in commanding the alert box in poping up on the page and entering the values for each side of the triangle.
 
@@ -28,6 +28,41 @@ The button "CLICK ME" helps one in commanding the alert box in poping up on the 
 |the program recognizes values which two sides are equal.| First number =3 second number =3 third number =5 |Isosceles triangle|
 |the program recognizes sum of two sides is equal or less than the thrid side.|First number =3 second number =4 third number =8| Not a triangle |
 |the program recognizes sum of two sides is equal or greator than the third side .|first number =3 second number =4 third number =6 | Scalene triangle |
+
+
+The Program recognizes length set to zero(0) or is less than zero
+INPUT EXAMPLE : sideA = 0 sideB = 60 sideC = 30
+
+OUTPUT EXAMPLE : Length of sides cannot be equal to or less than zero
+
+The Program recognizes lengths that are Equal
+INPUT EXAMPLE : sideA = 60 sideB = 60 sideC = 60
+
+OUTPUT EXAMPLE: The Triangle is an EQUILATERAL
+
+The Program recognizes two lengths that are Equal
+
+INPUT EXAMPLE : sideA = 60 sideB = 60 sideC = 30
+
+OUTPUT EXAMPLET: The Triangle is an ISOSCELES
+
+The Program recognizes lengths that are unequal
+
+INPUT EXAMPLE : sideA = 30 sideB = 40 sideC = 60
+
+OUTPUT EXAMPLE: The triangle is a SCALENE
+
+The Program recognizes lengths that do not form a triangle
+
+INPUT EXAMPLE : sideA = 50 sideB = 30 sideC = 90
+
+OUTPUT EXAMPLE: This NOT A TRIANGLE
+
+The Program recognizes empty fields or invalid characters like text
+
+Input : sideA = a sideB = "" sideC = 90
+
+OUTPUT EXAMPLE: TRY AGAIN. EMPTY FIELDS OR WRONG INPUTS
 
 
 
