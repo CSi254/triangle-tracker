@@ -11,12 +11,16 @@ This module is able to calculate and give you an answer which is accurate acordi
 # The BDD
 This project starts from as simle as an alert box which is only open when you click a button called "CLICK ME".
 The button "CLICK ME" helps one in commanding the alert box in poping up on the page and entering the values for each side of the triangle.
+
+
 |Behaviour                     |  Input                        | Output            |
 |------------------------------|-------------------------------|-------------------|
 |the program recognizes values which all sides are equal.| First number =4 second number =4 third number =4 |Equilateral triangle|
 |the program recognizes values which two sides are equal.| First number =3 second number =3 third number =5 |Isosceles triangle|
 |the program recognizes sum of two sides is equal or less than the thrid side.|First number =3 second number =4 third number =8| Not a triangle |
 |the program recognizes sum of two sides is equal or greator than the third side .|first number =3 second number =4 third number =6 | Scalene triangle |
+
+
 
 # The UI
 The ui is open for improvement.
