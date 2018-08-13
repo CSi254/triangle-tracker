@@ -1,5 +1,5 @@
 # Program name: 
-triangletracker
+triangle-tracker
 
 # Author name:John Gatheru
 
