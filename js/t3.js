@@ -1,6 +1,6 @@
 var triangleTracker = function(){
 var array=[];
-   
+
 array.push(parseFloat(prompt('Enter side A')));
 array.push(parseFloat(prompt('Enter side B')));
 array.push(parseFloat(prompt('Enter side C')));
